@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'KaushanScriptRegular';
+    src: url('fonts/kaushan/KaushanScript-Regular-webfont.eot');
+    src: url('fonts/kaushan/KaushanScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kaushan/KaushanScript-Regular-webfont.woff') format('woff'),
+         url('fonts/kaushan/KaushanScript-Regular-webfont.ttf') format('truetype'),
+         url('fonts/kaushan/KaushanScript-Regular-webfont.svg#KaushanScriptRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+$headfont : KaushanScriptRegular;
+
+.headfont, h1,h2,h3 {
+	font-family: $headfont;
+}
+
+/*********************************** TYPOGRAPHY SETTINGS ********************************/
+/* Proxima Nova types */ 
+
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url('fonts/proxima_nova/proximanova-bold-webfont.eot');
+    src: url('fonts/proxima_nova/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima_nova/proximanova-bold-webfont.woff') format('woff'),
+         url('fonts/proxima_nova/proximanova-bold-webfont.ttf') format('truetype'),
+         url('fonts/proxima_nova/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'proxima_nova_ltregular';
+    src: url('fonts/proxima_nova/proximanova-light-webfont.eot');
+    src: url('fonts/proxima_nova/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima_nova/proximanova-light-webfont.woff') format('woff'),
+         url('fonts/proxima_nova/proximanova-light-webfont.ttf') format('truetype'),
+         url('fonts/proxima_nova/proximanova-light-webfont.svg#proxima_nova_ltregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('fonts/proxima_nova/proximanova-regular-webfont.eot');
+    src: url('fonts/proxima_nova/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proxima_nova/proximanova-regular-webfont.woff') format('woff'),
+         url('fonts/proxima_nova/proximanova-regular-webfont.ttf') format('truetype'),
+         url('fonts/proxima_nova/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+$mainfont-light:"proxima_nova_ltregular";
+$mainfont-regular:"proxima_nova_rgregular";
+$mainfont-bold:"proxima_nova_rgbold";
+
+
+.mainfont-light{ font-family: $mainfont-light; font-weight:normal !important;}
+.mainfont-regular{ font-family: $mainfont-regular; font-weight:normal !important; }
+.mainfont-bold{ font-family: $mainfont-bold; font-weight:normal !important;}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/*********************************** TYPOGRAPHY SETTINGS ********************************/
+
+
+.mainfont-light,p {
+	font-family: $mainfont-light;
+}
+
+.mainfont-regular,h4,h5,h6, {
+	font-family: $mainfont-regular;
+}
+
+.mainfont-bold {
+	font-family:  $mainfont-bold;
+}
+

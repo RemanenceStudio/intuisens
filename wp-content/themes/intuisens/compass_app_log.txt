@@ -1,0 +1,231 @@
+2013-02-10 12:42:51 overwrite css/app.css 
+2013-02-10 12:43:09 overwrite css/app.css 
+2013-02-10 12:45:40 identical css/app.css 
+2013-02-10 12:45:52 identical css/app.css 
+2013-02-10 12:50:25     error sass/app.scss (Line 52: File to import not found or unreadable: layout/header.
+Load paths:
+  G:/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.13/compass-0.13.alpha.0/frameworks/blueprint/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.13/compass-0.13.alpha.0/frameworks/compass/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Guilbert-Paterne/.compass/extensions/zurb-foundation/scss
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  Compass::SpriteImporter)
+2013-02-10 12:50:25 overwrite css/app.css 
+2013-02-10 12:50:35     error sass/app.scss (Line 52: File to import not found or unreadable: layout/header.
+Load paths:
+  G:/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.13/compass-0.13.alpha.0/frameworks/blueprint/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.13/compass-0.13.alpha.0/frameworks/compass/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Guilbert-Paterne/.compass/extensions/zurb-foundation/scss
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  G:/Dropbox/Public/COMPASS/compass.app.windows.v1.21/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  Compass::SpriteImporter)
+2013-02-10 12:50:35 identical css/app.css 
+2013-02-10 12:50:48     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:50:48 overwrite css/app.css 
+2013-02-10 12:50:55     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:50:55 identical css/app.css 
+2013-02-10 12:51:17     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:51:17 overwrite css/app.css 
+2013-02-10 12:51:32     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:51:32 identical css/app.css 
+2013-02-10 12:51:44     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:51:44 identical css/app.css 
+2013-02-10 12:54:01     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:54:01 overwrite css/app.css 
+2013-02-10 12:54:11 overwrite css/app.css 
+2013-02-10 12:54:35     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:54:35 overwrite css/app.css 
+2013-02-10 12:54:45     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:54:45 identical css/app.css 
+2013-02-10 12:54:53     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:54:53 identical css/app.css 
+2013-02-10 12:55:06     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:55:06 identical css/app.css 
+2013-02-10 12:55:11     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:55:11 identical css/app.css 
+2013-02-10 12:55:14     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 12:55:14 identical css/app.css 
+2013-02-10 12:55:20 overwrite css/app.css 
+2013-02-10 13:04:45 overwrite css/app.css 
+2013-02-10 13:05:52 overwrite css/app.css 
+2013-02-10 13:08:57 overwrite css/app.css 
+2013-02-10 13:09:21 overwrite css/app.css 
+2013-02-10 13:10:25 overwrite css/app.css 
+2013-02-10 13:12:06     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 13:12:06 overwrite css/app.css 
+2013-02-10 13:12:13 overwrite css/app.css 
+2013-02-10 13:12:20     error sass/app.scss (Line 55: Undefined mixin 'sticky-footer'.)
+2013-02-10 13:12:20 overwrite css/app.css 
+2013-02-10 13:12:48 overwrite css/app.css 
+2013-02-10 13:12:56 overwrite css/app.css 
+2013-02-10 13:16:34     error sass/app.scss (Line 56: Undefined mixin 'sticky-footer'.)
+2013-02-10 13:16:34 overwrite css/app.css 
+2013-02-10 13:16:43     error sass/app.scss (Line 57: Undefined mixin 'sticky-footer'.)
+2013-02-10 13:16:43 overwrite css/app.css 
+2013-02-10 13:16:55     error sass/app.scss (Line 57: Invalid CSS after "... sticky-footer(": expected ")", was ";")
+2013-02-10 13:16:55 overwrite css/app.css 
+2013-02-10 13:16:58     error sass/app.scss (Line 57: Undefined mixin 'sticky-footer'.)
+2013-02-10 13:16:58 overwrite css/app.css 
+2013-02-10 13:17:12 overwrite css/app.css 
+2013-02-10 15:52:52     error sass/app.scss (Line 1 of sass/layouts/_footer.scss: Undefined mixin 'sticky-footer'.)
+2013-02-10 15:52:52 overwrite css/app.css 
+2013-02-10 15:53:51 overwrite css/app.css 
+2013-02-10 15:54:03 identical css/app.css 
+2013-02-10 15:54:11 identical css/app.css 
+2013-02-10 16:04:25 overwrite css/app.css 
+2013-02-10 16:09:41 overwrite css/app.css 
+2013-02-10 16:14:13 overwrite css/app.css 
+2013-02-10 16:14:26 overwrite css/app.css 
+2013-02-10 16:14:37 overwrite css/app.css 
+2013-02-10 16:18:03 identical css/app.css 
+2013-02-10 16:18:13 identical css/app.css 
+2013-02-10 16:18:19 identical css/app.css 
+2013-02-10 17:06:07 overwrite css/app.css 
+2013-02-10 17:06:51 overwrite css/app.css 
+2013-02-10 17:07:20 identical css/app.css 
+2013-02-10 17:09:55 overwrite css/app.css 
+2013-02-10 17:10:14 overwrite css/app.css 
+2013-02-10 17:10:34 overwrite css/app.css 
+2013-02-10 17:10:56 identical css/app.css 
+2013-02-10 17:11:09 overwrite css/app.css 
+2013-02-10 17:11:24 overwrite css/app.css 
+2013-02-10 17:11:29 overwrite css/app.css 
+2013-02-10 17:16:39 overwrite css/app.css 
+2013-02-10 17:16:49 identical css/app.css 
+2013-02-10 17:17:08 overwrite css/app.css 
+2013-02-10 17:17:29 overwrite css/app.css 
+2013-02-10 17:17:45 overwrite css/app.css 
+2013-02-10 17:18:44 overwrite css/app.css 
+2013-02-10 17:19:20 overwrite css/app.css 
+2013-02-10 17:19:29     error sass/app.scss (Line 10 of sass/layouts/_content.scss: Invalid CSS after "		a": expected "{", was "}")
+2013-02-10 17:19:29 overwrite css/app.css 
+2013-02-10 17:19:39 overwrite css/app.css 
+2013-02-10 17:19:45 identical css/app.css 
+2013-02-10 17:20:09 overwrite css/app.css 
+2013-02-10 17:20:35 overwrite css/app.css 
+2013-02-10 17:20:43 overwrite css/app.css 
+2013-02-10 17:21:42 overwrite css/app.css 
+2013-02-10 17:21:58 overwrite css/app.css 
+2013-02-10 17:22:42 overwrite css/app.css 
+2013-02-10 17:23:36 overwrite css/app.css 
+2013-02-10 17:24:05 overwrite css/app.css 
+2013-02-10 17:29:44     error sass/app.scss (Line 93 of sass/fonts/_fonts.scss: Undefined variable: "$mainfont-light".)
+2013-02-10 17:29:44 overwrite css/app.css 
+2013-02-10 17:30:15 overwrite css/app.css 
+2013-02-10 17:32:32 identical css/app.css 
+2013-02-13 22:21:21 overwrite css/app.css 
+2013-02-13 22:30:00 overwrite css/app.css 
+2013-02-13 22:30:12 overwrite css/app.css 
+2013-02-13 22:32:36 identical css/app.css 
+2013-02-13 22:33:04 identical css/app.css 
+2013-02-13 22:33:11 identical css/app.css 
+2013-02-13 22:34:23 overwrite css/app.css 
+2013-02-13 22:41:21 overwrite css/app.css 
+2013-02-13 22:43:02 overwrite css/app.css 
+2013-02-13 22:43:14 identical css/app.css 
+2013-02-13 22:44:07 identical css/app.css 
+2013-02-13 22:44:14 overwrite css/app.css 
+2013-02-13 22:44:19 identical css/app.css 
+2013-02-13 22:48:29 overwrite css/app.css 
+2013-02-13 22:49:39 overwrite css/app.css 
+2013-02-13 22:49:44 identical css/app.css 
+2013-02-13 22:56:59 identical css/app.css 
+2013-02-13 22:57:11 identical css/app.css 
+2013-02-13 22:57:41 overwrite css/app.css 
+2013-02-13 22:57:55 overwrite css/app.css 
+2013-02-13 22:58:19 overwrite css/app.css 
+2013-02-13 22:58:23 identical css/app.css 
+2013-02-13 22:58:36 overwrite css/app.css 
+2013-02-13 22:58:51 overwrite css/app.css 
+2013-02-13 22:59:03 overwrite css/app.css 
+2013-02-13 23:00:51 overwrite css/app.css 
+2013-02-13 23:00:59 identical css/app.css 
+2013-02-13 23:08:54 overwrite css/app.css 
+2013-02-13 23:09:22     error sass/app.scss (Line 16 of sass/_settings.scss: Invalid CSS after ".mainColor :": expected pseudoclass or pseudoelement, was " $mainColor;")
+2013-02-13 23:09:22 overwrite css/app.css 
+2013-02-13 23:09:29     error sass/app.scss (Line 16 of sass/_settings.scss: Invalid CSS after ".mainColor :": expected pseudoclass or pseudoelement, was " $mainColor;")
+2013-02-13 23:09:29 identical css/app.css 
+2013-02-13 23:09:57 overwrite css/app.css 
+2013-02-13 23:10:10 overwrite css/app.css 
+2013-02-13 23:12:07 overwrite css/app.css 
+2013-02-13 23:12:19 overwrite css/app.css 
+2013-02-13 23:15:42     error sass/app.scss (Line 76 of sass/fonts/_fonts.scss: Invalid CSS after "	font-family: ": expected expression (e.g. 1px, bold), was "$$mainfont-light;")
+2013-02-13 23:15:42 overwrite css/app.css 
+2013-02-13 23:16:27 overwrite css/app.css 
+2013-02-13 23:24:33 overwrite css/app.css 
+2013-02-13 23:25:21 identical css/app.css 
+2013-02-13 23:25:36 overwrite css/app.css 
+2013-02-13 23:25:40 identical css/app.css 
+2013-02-13 23:25:48 overwrite css/app.css 
+2013-02-13 23:26:02 overwrite css/app.css 
+2013-02-13 23:26:56 overwrite css/app.css 
+2013-02-13 23:34:11 overwrite css/app.css 
+2013-02-13 23:34:22 overwrite css/app.css 
+2013-02-13 23:34:55 overwrite css/app.css 
+2013-02-13 23:35:06 overwrite css/app.css 
+2013-02-13 23:35:19 overwrite css/app.css 
+2013-02-13 23:35:40 overwrite css/app.css 
+2013-02-13 23:35:47 overwrite css/app.css 
+2013-02-13 23:36:05 overwrite css/app.css 
+2013-02-13 23:36:20 identical css/app.css 
+2013-02-13 23:36:28 overwrite css/app.css 
+2013-02-13 23:36:58 overwrite css/app.css 
+2013-02-13 23:37:33 overwrite css/app.css 
+2013-02-13 23:37:43 overwrite css/app.css 
+2013-02-13 23:38:24 overwrite css/app.css 
+2013-02-13 23:39:01 overwrite css/app.css 
+2013-02-13 23:39:38 overwrite css/app.css 
+2013-02-13 23:40:02 overwrite css/app.css 
+2013-02-13 23:40:07 overwrite css/app.css 
+2013-02-13 23:40:20 overwrite css/app.css 
+2013-02-13 23:40:39 overwrite css/app.css 
+2013-02-13 23:40:51 overwrite css/app.css 
+2013-02-13 23:42:15 overwrite css/app.css 
+2013-02-13 23:43:39 overwrite css/app.css 
+2013-02-13 23:44:04 overwrite css/app.css 
+2013-02-13 23:48:28 overwrite css/app.css 
+2013-02-13 23:48:38 overwrite css/app.css 
+2013-02-13 23:48:58 overwrite css/app.css 
+2013-02-13 23:49:13 overwrite css/app.css 
+2013-02-13 23:49:25 overwrite css/app.css 
+2013-02-13 23:49:52 overwrite css/app.css 
+2013-02-13 23:49:58 overwrite css/app.css 
+2013-02-13 23:50:06 overwrite css/app.css 
+2013-02-13 23:50:16 overwrite css/app.css 
+2013-02-13 23:51:15 overwrite css/app.css 
+2013-02-13 23:51:40 overwrite css/app.css 
+2013-02-13 23:51:52 overwrite css/app.css 
+2013-02-13 23:52:06 overwrite css/app.css 
+2013-02-13 23:52:18 overwrite css/app.css 
+2013-02-13 23:53:19 overwrite css/app.css 
+2013-02-13 23:53:24 overwrite css/app.css 
+2013-02-13 23:53:36 overwrite css/app.css 
+2013-02-13 23:53:46 overwrite css/app.css 
+2013-02-13 23:53:57 overwrite css/app.css 
+2013-02-13 23:54:04 overwrite css/app.css 
+2013-02-13 23:55:14 overwrite css/app.css 
+2013-02-13 23:55:22 overwrite css/app.css 
+2013-02-13 23:56:29 overwrite css/app.css 
+2013-02-13 23:56:38 overwrite css/app.css 
+2013-02-13 23:56:52 overwrite css/app.css 
+2013-02-13 23:56:57 overwrite css/app.css 
+2013-02-13 23:59:15 overwrite css/app.css 
+2013-02-13 23:59:24 overwrite css/app.css 
+2013-02-13 23:59:33 overwrite css/app.css 
+2013-02-14 00:00:00 overwrite css/app.css 
+2013-02-14 00:00:38 overwrite css/app.css 
+2013-02-14 00:04:27 overwrite css/app.css 
+2013-02-14 00:04:38 overwrite css/app.css 
+2013-02-14 00:05:15 overwrite css/app.css 

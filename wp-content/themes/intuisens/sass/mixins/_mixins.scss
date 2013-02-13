@@ -1,0 +1,7 @@
+@mixin standardTransition ($duration) {
+	-webkit-transition: all $duration ease-in;
+	-moz-transition: all $duration ease-in;
+	-ms-transition: all $duration ease-in;
+	-o-transition: all $duration ease-in;
+	transition: all $duration ease-in;
+}

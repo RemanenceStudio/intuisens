@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"position",
+				"background-position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padding-top",
+				"padding-top"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"rel",
+				"relative"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sccs",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"place",
+				"Placehold.it: Insert Image"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sccss",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"shtml",
+				"Snippet: html"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"scsss",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"html",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/page-custom.php",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/footer.php",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/app.scss",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/mixins/_mixins.scss",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/fonts/_fonts.scss",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/_settings.scss",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/layouts/_content.scss",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/images/reform.png",
+		"/G/WORKS/UwAmp/www/PerfectMatchMedia/themes/v1/sass/customFonts/_fonts.scss",
+		"/C/Users/Guilbert-Paterne/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/mixins/mixins",
+		"/G/WORKS/UwAmp/www/intuisens/wp-content/themes/intuisens/header.php",
+		"/G/WORKS/UwAmp/www/intuisens/intuisens.sublime-project",
+		"/G/WORKS/UwAmp/www/intuisens/intuisens.sublime-workspace",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/footer.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/page-custom.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/index.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/layouts/_header.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-config.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/header.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/app.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/sftp-config.json",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/css/fonts/veggieburger/stylesheet.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/css/fonts/yanone/stylesheet.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/layouts/_content.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/layouts/_footer.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/single.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/loop-single.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/_settings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/sass/fonts/_fonts.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/loop-page.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/css/fonts/colaborate/stylesheet.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/page.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/functions.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/css/fonts/kaushan/stylesheet.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens/wp-content/themes/intuisens/humans.txt",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/intuisens html/config.rb",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/WanacashV3/config.dist/config.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sftp-config.json",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/style.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/style (Copie de Tipunch-MBP en conflit 2013-01-30).css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/page.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/single.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/includes/blog-sh.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/header.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/loop.php",
+		"/C/Users/Guilbert-Paterne/Desktop/Nouveau dossier/ThinkResponsive/style.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-content/themes/ThinkResponsive/functions.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-config.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-config (Copie de MacBook-Pro-de-Xavier en conflit 2013-01-24).php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/wp-config - Copie.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/layouts/_header.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/index.html",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/_customSettings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/app.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/layouts/_footer.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/_settings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/layouts/_content.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/stylesheets/app.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/sass/layouts/_content.Scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/index.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/HTML/index.html",
+		"/C/Users/Guilbert-Paterne/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/studiosons/sftp-config.json",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/comments.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/footer.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/sass/layout/_masonry.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/header.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/loop.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/sass/layout/_content.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/css/app.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/sass/layout/_comment.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/sass/layout/_themeSettings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/page.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/sass/layout/_footer.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/loop-single.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/single.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/supersized-slides/default/background_1.jpg",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/index.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/js/app.js",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/config - Copie.rb",
+		"/C/Users/Guilbert-Paterne/Desktop/vanilla-masonry-site/vanilla-masonry-site/css/style.css",
+		"/C/Users/Guilbert-Paterne/Desktop/vanilla-masonry-site/vanilla-masonry-site/index.html",
+		"/C/Users/Guilbert-Paterne/Desktop/isotope-master/isotope-master/index.html",
+		"/C/Users/Guilbert-Paterne/Desktop/isotope-master/isotope-master/css/style.css",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/footer (Copie de MacBook-Pro-de-Xavier en conflit 2012-10-25).php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/wp-content/themes/remanence/single (Copie de MacBook-Pro-de-Xavier en conflit 2012-10-25).php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/remanenceV3/remanence_v3.sublime-project",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/RemanenceV3/wp-config (Copie de MacBook-Pro-de-Xavier en conflit 2012-10-25).php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/sass/app.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/list.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/new-invoice.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/login.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/fluid-list.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/message-list.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/client-profile.php",
+		"/C/Users/Guilbert-Paterne/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/sass/_settings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/sass/_settings.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/test.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/index.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/sass/app.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/sass/layout/_form.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/contact.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/sass/layout/_panel.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/DSiVISION/DSiVision/sass/layout/_nav-bar.scss",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/footer.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/project.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/header.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/new-client.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/FreelanceBox/application/views/new-client.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/application/views/new-file.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/sftp-config.json",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/themes/purevision/footer.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/FreelanceBox/application/models/client.php",
+		"/G/Dropbox/WORKS/WWW/UwAmp/www/FreelanceBox/config/config.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/FreelanceBox/config/config.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/FreelanceBox/application/views/new-invoice.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/FreelanceBox/application/views/login.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/freelanceBox/config/config.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/themes/purevision/page-PageTemplate6.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/plugins/contact-form-7/admin/js/scripts.js",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/themes/purevision/scripts/script.js",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/plugins/contact-form-7/includes/js/scripts.js",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/aquitalu/WP/wp-content/themes/purevision/functions.php",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/RemanenceV3/wp-content/themes/remanence/sass/_settings.scss",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/RemanenceV3/wp-content/themes/remanence/sass/layout/_header.scss",
+		"/G/Dropbox/WORKS/WWW/ZMWS/_web.zmwsc/RemanenceV3/wp-content/themes/remanence/header.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"",
+			"G:\\Dropbox\\WORKS\\WWW\\ZMWS\\_web.zmwsc\\aquitalu\\WP"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"Mac OS X 	2",
+			"css",
+			"wp_head",
+			"css",
+			".css",
+			"app.css",
+			"false",
+			"css/",
+			"false",
+			"sh1of4",
+			"font-face",
+			"page-title-wrapper",
+			">\n",
+			"page-content",
+			"blogdate",
+			"comments_template",
+			"blogdatemeta",
+			"blog",
+			"\",\n",
+			"\"\n",
+			"txtColor",
+			"body",
+			"	\n",
+			"false",
+			"'Lire la suite...'",
+			"href",
+			"padding",
+			";\n",
+			"more-link",
+			"lire la suite",
+			"comment-reply-link",
+			"wp_list_comments",
+			"class=\"five\"",
+			"p",
+			".js",
+			"box-maker",
+			"info-bar",
+			"secondary",
+			"table",
+			"bordertest",
+			"img",
+			".button.secondary",
+			" \n",
+			"name",
+			"modal",
+			"if (1 == data.mailSent)",
+			"1 == data.mailSent)",
+			"if (1 == data.mailSent)",
+			"contac",
+			"}",
+			"font",
+			"-weight",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"settings.scs",
+				"wp-content/themes/intuisens/sass/_settings.scss"
+			],
+			[
+				"font",
+				"wp-content/themes/intuisens/sass/fonts/_fonts.scss"
+			],
+			[
+				"settings.scss",
+				"DSiVISION/DSiVision/sass/_settings.scss"
+			],
+			[
+				"login",
+				"FreelanceBox/application/views/login.php"
+			],
+			[
+				"footer",
+				"aquitalu/WP/wp-content/themes/purevision/footer.php"
+			],
+			[
+				"_header",
+				"wp-content/themes/remanence/sass/layout/_header.scss"
+			],
+			[
+				"header.php",
+				"wp-includes/theme-compat/header.php"
+			],
+			[
+				"app.scs",
+				"wp-content/themes/remanence/sass/app.scss"
+			],
+			[
+				"header.scss",
+				"wp-content/themes/remanence/sass/layout/_header.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/G/Dropbox/WORKS/WWW/UwAmp/www/studioson/studioson.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
